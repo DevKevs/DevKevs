@@ -43,3 +43,4 @@ do_validator is also available as a Dart package on pub.dev. This package provid
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevKevs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=DevKevs&icon=0&color=4)](https://visitcount.itsvg.in)
