@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @DevKevs
-👀 I’m interested in Web Solution Development, Mobile or PWA <br>🌱 Pushing myself to become the legendary FullStack Developer<br>💞️ I’m looking to Improve my self every day<br>📫 How to reach me kevinfeliz2016@gmail.com personal E-mail<br>
+👀 I’m interested in Web Solution Development, Mobile or PWA <br>🌱 Pushing myself to become the legendary FullStack Developer<br>💞️ I’m looking to Improve myself every day<br>📫 How to reach me kevinfeliz2016@gmail.com personal E-mail<br>
 
 
 ## 🌐 Socials:
